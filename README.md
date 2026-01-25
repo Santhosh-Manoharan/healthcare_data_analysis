@@ -1,5 +1,5 @@
-# healthcare_data_analysis
-Data Analysis on Healthcare
+# Healthcare_data_analysis
+## Data Analysis on Healthcare
 
 ## Dataset
 Healthcare Symptoms–Disease Classification Dataset
